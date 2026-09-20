@@ -1,0 +1,30 @@
+# Dart and Flutter generated files.
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# Editor files.
+.idea/
+.vscode/
+*.iml
+
+# Local Android configuration and build output.
+android/.gradle/
+android/local.properties
+android/captures/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/key.properties
+*.jks
+*.keystore
+
+# Operating system files.
+.DS_Store
+Thumbs.db
+
+# Keep pubspec.lock under version control once flutter pub get generates it.
